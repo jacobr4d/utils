@@ -1,5 +1,5 @@
 // dirname -- strip suffix from file name
-// https://pubs.opengroup.org/onlinepubs/9699919799/
+// https://pubs.opengroup.org/onlinepubs/9799919799/
 
 #include <stdio.h>
 #include <stdlib.h>
